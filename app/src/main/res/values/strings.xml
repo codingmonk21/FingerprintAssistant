@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerprintAssistantSample</string>
+    <string name="fingerprint_assistant_library_test">Fingerprint Assistant Library Test</string>
+</resources>
