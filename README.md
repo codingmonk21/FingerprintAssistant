@@ -98,4 +98,8 @@ Check for the various response code values returned and take appropriate action,
             }
         }
     }
+    
+Note : Please take a look at the sample app for more clarity on implementation. 
+
+Happy Coding :)
   
