@@ -78,9 +78,11 @@ Check for the various response code values returned and take appropriate action,
       
   Touch the fingerprint sensor and get the appropriate results in the onAuthentication callback method.
 
+<p align="center">
 <kbd>
     <img src="https://github.com/dev-prajwal21/FingerprintAssistant/blob/master/Screenshot_2017-06-07-13-09-38-456.jpeg"            alt=“Screenshot” width=“320px” height = "480px"/>
 </kbd>
+</p>
 
 <br/>
 
