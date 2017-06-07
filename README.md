@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/dev-prajwal21/FingerprintAssistant.svg)](https://jitpack.io/#dev-prajwal21/FingerprintAssistant)
+
 # FingerprintAssistant
 FingerprintAssistant is a library built to seamlessy integrate fingerprint api's into any android project. The custom callback structure 
 implemented will provide callbacks for all possible scenarios encountered while integrating fingerprint api's. FingerprintAssistant primarily 
@@ -75,8 +77,13 @@ Check for the various response code values returned and take appropriate action,
       fingerprintResultsHandler.startListening(fingerPrintHelper.getFingerprintManager(), fingerPrintHelper.getCryptoObject());
       
   Touch the fingerprint sensor and get the appropriate results in the onAuthentication callback method.
-  
-  
+
+<kbd>
+    <img src="https://github.com/dev-prajwal21/FingerprintAssistant/blob/master/Screenshot_2017-06-07-13-09-38-456.jpeg"            alt=“Screenshot” width=“300px”/>
+</kbd>
+
+<br/>
+
   Additionally to better control the scanning of fingerprint sensor, start and stop the scanning respectively in the following lifecycle methods of the activity,
   
       @Override
