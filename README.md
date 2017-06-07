@@ -1,7 +1,7 @@
 [![](https://jitpack.io/v/dev-prajwal21/FingerprintAssistant.svg)](https://jitpack.io/#dev-prajwal21/FingerprintAssistant)
 
 # FingerprintAssistant
-FingerprintAssistant is a library built to seamlessy integrate fingerprint api's into any android project. The custom callback structure 
+FingerprintAssistant is a library built to seamlessly integrate fingerprint api's into any android project. The custom callback structure 
 implemented will provide callbacks for all possible scenarios encountered while integrating fingerprint api's. FingerprintAssistant primarily 
 address the elimination of validations overhead and focus on business logic to make fingerprint auth as easy and as fast as possible.
 
