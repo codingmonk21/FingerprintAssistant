@@ -1,4 +1,4 @@
-package com.dev21.fingerprintassistant;
+package com.dev21.fingerprintassistant.helper;
 
 import android.Manifest;
 import android.annotation.TargetApi;
@@ -11,7 +11,8 @@ import android.security.keystore.KeyGenParameterSpec;
 import android.security.keystore.KeyPermanentlyInvalidatedException;
 import android.security.keystore.KeyProperties;
 import android.support.v4.app.ActivityCompat;
-import android.util.Log;
+
+import com.dev21.fingerprintassistant.util.ResponseCode;
 
 import java.io.IOException;
 import java.security.InvalidAlgorithmParameterException;

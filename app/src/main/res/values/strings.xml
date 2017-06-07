@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">FingerprintAssistantSample</string>
-    <string name="fingerprint_assistant_library_test">Fingerprint Assistant Library Test</string>
+    <string name="touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 </resources>

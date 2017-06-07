@@ -1,4 +1,4 @@
-package com.dev21.fingerprintassistant;
+package com.dev21.fingerprintassistant.interfaces;
 
 import android.hardware.fingerprint.FingerprintManager;
 

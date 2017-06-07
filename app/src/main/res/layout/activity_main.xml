@@ -5,12 +5,20 @@
     android:layout_height="match_parent"
     tools:context="com.dev21.fingerprintassistantsample.MainActivity">
 
-    <TextView
+    <ImageView
+        android:id="@+id/fingerprintImg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="@string/fingerprint_assistant_library_test"
-        android:textSize="16sp"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fingerprintImg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/touch_the_fingerprint_sensor"
         android:textStyle="bold" />
 
 </RelativeLayout>

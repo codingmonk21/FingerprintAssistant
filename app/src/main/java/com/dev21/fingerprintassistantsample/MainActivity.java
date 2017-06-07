@@ -2,16 +2,14 @@ package com.dev21.fingerprintassistantsample;
 
 import android.hardware.fingerprint.FingerprintManager;
 import android.os.Build;
-import android.support.annotation.RequiresApi;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.Toast;
 
-import com.dev21.fingerprintassistant.FingerprintAuthListener;
-import com.dev21.fingerprintassistant.FingerprintHelper;
-import com.dev21.fingerprintassistant.FingerprintResultsHandler;
-import com.dev21.fingerprintassistant.ResponseCode;
+import com.dev21.fingerprintassistant.interfaces.FingerprintAuthListener;
+import com.dev21.fingerprintassistant.helper.FingerprintHelper;
+import com.dev21.fingerprintassistant.helper.FingerprintResultsHandler;
+import com.dev21.fingerprintassistant.util.ResponseCode;
 
 public class MainActivity extends AppCompatActivity implements FingerprintAuthListener {
     private final String TAG = MainActivity.class.getSimpleName();

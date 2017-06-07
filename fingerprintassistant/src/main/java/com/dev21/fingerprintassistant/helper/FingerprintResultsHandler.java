@@ -1,4 +1,4 @@
-package com.dev21.fingerprintassistant;
+package com.dev21.fingerprintassistant.helper;
 
 import android.Manifest;
 import android.content.Context;
@@ -8,7 +8,9 @@ import android.os.Build;
 import android.os.CancellationSignal;
 import android.support.annotation.RequiresApi;
 import android.support.v4.app.ActivityCompat;
-import android.util.Log;
+
+import com.dev21.fingerprintassistant.interfaces.FingerprintAuthListener;
+import com.dev21.fingerprintassistant.util.ResponseCode;
 
 /**
  * Created by Prajwal on 24/05/17.

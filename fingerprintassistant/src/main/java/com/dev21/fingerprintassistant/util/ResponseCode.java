@@ -1,4 +1,4 @@
-package com.dev21.fingerprintassistant;
+package com.dev21.fingerprintassistant.util;
 
 /**
  * Created by Prajwal on 26/05/17.
