@@ -113,4 +113,7 @@ Check for the various response code values returned and take appropriate action,
 <b> Note: </b> Please take a look at the sample app for more clarity on implementation. 
 
 <h4>Happy Coding :)</h4>
+
+<h4>License</h4>
   
+<a href = 'https://github.com/dev-prajwal21/FingerprintAssistant/blob/master/LICENSE'>GNU General Public License v3.0</a>
