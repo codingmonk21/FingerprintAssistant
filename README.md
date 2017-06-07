@@ -3,6 +3,8 @@ FingerprintAssistant is a library built to seamlessy integrate fingerprint api's
 implemented will provide callbacks for all possible scenarios encountered while integrating fingerprint api's. FingerprintAssistant primarily 
 address the elimination of validations overhead and focus on business logic to make fingerprint auth as easy and as fast as possible.
 
+<h2> Usage </h2>
+
 Add the following line in project's root level gradle,
 
     maven { url 'https://jitpack.io' }
@@ -99,7 +101,7 @@ Check for the various response code values returned and take appropriate action,
         }
     }
     
-Note : Please take a look at the sample app for more clarity on implementation. 
+<b> Note: </b> Please take a look at the sample app for more clarity on implementation. 
 
-Happy Coding :)
+<h4>Happy Coding :)</h4>
   
